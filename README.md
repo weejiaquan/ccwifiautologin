@@ -1,0 +1,2 @@
+# ccwifiautologin
+autologin wifi script
