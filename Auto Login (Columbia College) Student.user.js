@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Auto Login (Columbia College) Student
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    Lychwee
+// @version      1
 // @description  try to take over the world!
-// @author       You
+// @author       Lychwee
 // @match        *://captiveportal-login.columbiacollege.bc.ca/cgi-bin/login*
+// EDIT @match to match with your portal login URL
 // @grant        none
 // ==/UserScript==
 
