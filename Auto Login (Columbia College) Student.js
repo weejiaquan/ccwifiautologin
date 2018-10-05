@@ -17,7 +17,7 @@ window.onload = function(){
 }
 function check() {
     document.getElementById("agree-yes").checked = true;
-    document.getElementById("user").value = "804524";
-    document.getElementById("password").value = "cc!030799";
+    document.getElementById("user").value = "USER";
+    document.getElementById("password").value = "PASS";
     document.getElementsByTagName("input")[5].click();
 }
